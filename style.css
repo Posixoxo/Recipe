@@ -1,0 +1,74 @@
+body{
+  margin: 0;
+  height: 100vh;
+  justify-content: center;   
+  align-items: center; 
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto; 
+}
+
+img{
+  width: 100%;
+}
+
+.container {
+  text-align: center;
+}
+
+text{
+  text-align: center;
+}
+    
+.quick{
+  text-align: justify;
+  font-family: sans-serif;
+  font-weight: 10;
+}
+
+.young-serif-regular {
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.redbox{
+background-color: rgb(241, 224, 232);
+height: 190px;
+margin-top: 40px;
+}
+
+
+.Tructions{
+  text-align: justify;
+  padding-left: 12px; 
+}
+
+
+.nutric-c{
+text-align: justify;
+}
+
+.ulli{
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+  margin-bottom: 6px;
+  text-align: justify;
+  width: 250px;
+  padding-left: 40px;
+}
+
+.calories{
+  margin-left: 40px;
+}
+.carbs{
+  margin-left: 55px;
+}
+.protein{
+  margin-left: 45px;
+}
+.fat{
+  margin-left: 71px;
+}
+
